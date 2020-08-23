@@ -7,6 +7,10 @@ public class Animal2 {
 }
     int getFood(){
         return food;
+        
     }
+   public static void main(String args[]){
+        System.out.println(food);
+   } 
 }
 
